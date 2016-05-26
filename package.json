@@ -5,8 +5,7 @@
   "main": "build/reporter.js",
   "scripts": {
     "test": "grunt",
-    "build": "grunt build",
-    "postinstall": "npm prune && npm run build"
+    "build": "grunt build"
   },
   "repository": {
     "type": "git",
